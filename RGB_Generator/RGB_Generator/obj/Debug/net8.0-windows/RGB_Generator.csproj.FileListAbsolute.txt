@@ -1,0 +1,16 @@
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\bin\Debug\net8.0-windows\RGB_Generator.exe
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\bin\Debug\net8.0-windows\RGB_Generator.deps.json
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\bin\Debug\net8.0-windows\RGB_Generator.runtimeconfig.json
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\bin\Debug\net8.0-windows\RGB_Generator.dll
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\bin\Debug\net8.0-windows\RGB_Generator.pdb
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.AssemblyInfoInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.AssemblyInfo.cs
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.dll
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\refint\RGB_Generator.dll
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.pdb
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\RGB_Generator.genruntimeconfig.cache
+C:\Users\anach\Desktop\LectiiCSharp\RGB_Generator\RGB_Generator\obj\Debug\net8.0-windows\ref\RGB_Generator.dll
