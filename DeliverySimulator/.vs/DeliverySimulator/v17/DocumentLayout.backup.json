@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\deliverysimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|c:\\users\\anach\\desktop\\lectiicsharp\\deliverysimulator\\deliverysimulator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|c:\\users\\anach\\desktop\\lectiicsharp\\deliverysimulator\\deliverysimulator\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\deliverysimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\deliverysimulator\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|c:\\users\\anach\\desktop\\lectiicsharp\\deliverysimulator\\deliverysimulator\\courierwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\courierwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|c:\\users\\anach\\desktop\\lectiicsharp\\deliverysimulator\\deliverysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\deliverysimulator\\courierwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\courierwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\deliverysimulator\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363E42C1-5C3B-4237-97DC-C9660C9F2529}|DeliverySimulator\\DeliverySimulator.csproj|solutionrelative:deliverysimulator\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Db.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Db.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Db.cs",
+              "RelativeToolTip": "DeliverySimulator\\Db.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswEAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:08:37.764Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Form1.Designer.cs*",
+              "RelativeToolTip": "DeliverySimulator\\Form1.Designer.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvy8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:45:52.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Program.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Program.cs",
+              "RelativeToolTip": "DeliverySimulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:29:07.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourierWindow.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\CourierWindow.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\CourierWindow.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\CourierWindow.cs",
+              "RelativeToolTip": "DeliverySimulator\\CourierWindow.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:22:26.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourierWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\CourierWindow.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\CourierWindow.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\CourierWindow.cs [Design]",
+              "RelativeToolTip": "DeliverySimulator\\CourierWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:00:43.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Form1.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Form1.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Form1.cs*",
+              "RelativeToolTip": "DeliverySimulator\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:00:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Package.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Package.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Package.cs",
+              "RelativeToolTip": "DeliverySimulator\\Package.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:57:22.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Courier.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Courier.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Courier.cs",
+              "RelativeToolTip": "DeliverySimulator\\Courier.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:52:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Form1.cs",
+              "RelativeDocumentMoniker": "DeliverySimulator\\Form1.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\DeliverySimulator\\DeliverySimulator\\Form1.cs [Design]*",
+              "RelativeToolTip": "DeliverySimulator\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:52:25.538Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

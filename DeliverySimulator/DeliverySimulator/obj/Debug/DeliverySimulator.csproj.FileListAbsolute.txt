@@ -1,0 +1,11 @@
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\bin\Debug\DeliverySimulator.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\bin\Debug\DeliverySimulator.exe
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\bin\Debug\DeliverySimulator.pdb
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.exe
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.pdb
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.CourierWindow.resources
