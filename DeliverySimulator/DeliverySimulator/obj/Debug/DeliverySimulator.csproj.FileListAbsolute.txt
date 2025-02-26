@@ -9,3 +9,4 @@ C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debu
 C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.exe
 C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.pdb
 C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.CourierWindow.resources
+C:\Users\anach\Desktop\LectiiCSharp\DeliverySimulator\DeliverySimulator\obj\Debug\DeliverySimulator.CourierCompany.resources

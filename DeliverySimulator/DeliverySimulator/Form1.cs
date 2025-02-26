@@ -28,8 +28,8 @@ namespace DeliverySimulator
                 openWindows.Add(courierWindow);
                 courierWindow.Show();
             }
-            Application.DoEvents();
-            this.Visible = false;
+            CourierCompany company = new CourierCompany();
+            company.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

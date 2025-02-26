@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Courier.cs" />
+    <Compile Include="CourierCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CourierCompany.Designer.cs">
+      <DependentUpon>CourierCompany.cs</DependentUpon>
+    </Compile>
     <Compile Include="CourierWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +69,9 @@
     <Compile Include="Package.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CourierCompany.resx">
+      <DependentUpon>CourierCompany.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CourierWindow.resx">
       <DependentUpon>CourierWindow.cs</DependentUpon>
     </EmbeddedResource>
