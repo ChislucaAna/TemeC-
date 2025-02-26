@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Drawing;
 namespace DeliverySimulator
 {
     public class Db
@@ -24,16 +24,14 @@ namespace DeliverySimulator
             {
                 string[] fields = line.Split(';');
 
-                Courier.circle zona;
-                zona.center.x = Convert.ToInt16(fields[2]);
-                zona.center.y = Convert.ToInt16(fields[3]);
-                zona.radius = Convert.ToInt16(fields[4]);
+                Courier.circle zona = new Courier.circle(new Point(Convert.ToInt32(fields[2]),
+                    Convert.ToInt32(fields[3])), Convert.ToInt32(fields[4]));
 
                 couriers.Add(new Courier(Convert.ToInt16(fields[0]), fields[1],zona));
             }
             sr.Close();
 
-            sr = new StreamReader("streets.txt");
+            sr = new StreamReader("streets.txt"); //in fisierul asta ai asssigned streets pt fiecare curier
             while ((line = sr.ReadLine()) != null)
             {
                 string[] fields = line.Split(';');
@@ -47,13 +45,8 @@ namespace DeliverySimulator
             {
                 string[] fields = line.Split(';');
 
-                Package.adr adresa;
-                adresa.street = fields[2];
-                adresa.number = Convert.ToInt16(fields[3]);
-
-                Package.loc locatie;
-                locatie.x= Convert.ToInt16(fields[4]);
-                locatie.y = Convert.ToInt16(fields[5]);
+                Package.adr adresa= new Package.adr(fields[2], Convert.ToInt16(fields[3]));
+                Point locatie = new Point(Convert.ToInt16(fields[4]), Convert.ToInt16(fields[5]));
 
                 packages.Add(new Package(Convert.ToInt16(fields[0]),fields[1], adresa, locatie, Convert.ToBoolean(fields[6])));
             }

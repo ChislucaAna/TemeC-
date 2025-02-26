@@ -34,10 +34,12 @@ namespace DeliverySimulator
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Db.SaveData();
             foreach (CourierWindow item in openWindows)
             {
                 item.Close();
             }
+            this.Close();
         }
     }
 }

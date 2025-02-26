@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,22 +12,23 @@ namespace DeliverySimulator
     {
         public int id;
         public string recipient;
-        public struct adr
+        public class adr
         {
             public string street;
             public int number;
-        }
-        public struct loc
-        {
-            public int x;
-            public int y;
+
+            public adr(string street, int number)
+            {
+                this.street = street;
+                this.number = number;
+            }
         }
 
         public adr adress;
-        public loc location;
+        public Point location;
         public bool deliveryStatus;
 
-        public Package(int id,string recipient, adr adress, loc location, bool deliveryStatus)
+        public Package(int id,string recipient, adr adress, Point location, bool deliveryStatus)
         {
             this.id = id;
             this.recipient = recipient;
@@ -36,7 +39,18 @@ namespace DeliverySimulator
 
         public override string ToString()
         {
-            return id + ";" + recipient + ";" + adress.street + ";" + adress.number + ";" + location.x + ";" + location.y + ";" + deliveryStatus.ToString() ;
+            return id + ";" + recipient + ";" + adress.street + ";" + adress.number + ";" + location.X + ";" + location.Y + ";" + deliveryStatus.ToString() ;
+        }
+
+        public double DistanceFromCourier(Courier.circle area)
+        {
+            return Math.Sqrt(Math.Pow(location.X - area.center.X, 2) + Math.Pow(location.Y - area.center.Y, 2));
+        }
+        public bool IsInArea(Courier.circle area)
+        {
+            if(Math.Pow(location.X-area.center.X,2)+ Math.Pow(location.Y - area.center.Y, 2)<=area.radius)
+                return true;
+            return false;
         }
     }
 }

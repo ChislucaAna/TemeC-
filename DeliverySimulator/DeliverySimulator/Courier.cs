@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace DeliverySimulator
 {
@@ -13,15 +14,18 @@ namespace DeliverySimulator
         public string name;
         public List<string> assignedStreets;
 
-        public struct point
+        //this field won't be added into the database, it is for app use only
+        public List<Package> assignedPackages;
+        public class circle
         {
-            public int x;
-            public int y;
-        }
-        public struct circle
-        {
-            public point center;
+            public Point center;
             public int radius;
+
+            public circle(Point center, int radius)
+            {
+                this.center = center;
+                this.radius = radius;
+            }   
         };
         public circle zone;
 
@@ -30,12 +34,13 @@ namespace DeliverySimulator
             this.id = id;
             this.name = name;
             this.zone = zone;
-            assignedStreets = new List<string>();   
+            assignedStreets = new List<string>();  
+            assignedPackages = new List<Package>();
         }
 
         public override string ToString()
         {
-            return id+";"+name+";"+zone.center.x+";"+ zone.center.y+";"+zone.radius;
+            return id+";"+name+";"+zone.center.X+";"+ zone.center.Y+";"+zone.radius;
         }
     }
 }
