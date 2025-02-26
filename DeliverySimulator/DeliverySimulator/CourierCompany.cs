@@ -22,7 +22,7 @@ namespace DeliverySimulator
             Db.packages.Add(new Package(Db.packages.Count,textBox1.Text,
                 new Package.adr(textBox2.Text,Convert.ToInt32(textBox6.Text)),
                 new Point(Convert.ToInt32(textBox4.Text),Convert.ToInt32(textBox5.Text)),false));
-            LoadPackages();
+            App.RefreshAllWindows();
         }
         public void LoadPackages()
         {
@@ -35,6 +35,11 @@ namespace DeliverySimulator
         }
 
         private void CourierCompany_Load(object sender, EventArgs e)
+        {
+            LoadPackages();
+        }
+
+        private void CourierCompany_Paint(object sender, PaintEventArgs e)
         {
             LoadPackages();
         }

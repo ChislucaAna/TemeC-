@@ -103,6 +103,7 @@ namespace DeliverySimulator
                 var pachet = p.First();
                 pachet.deliveryStatus = true;
                 dataGridView1.Rows.RemoveAt(e.RowIndex);
+                App.RefreshAllWindows();
             }
         }
     }

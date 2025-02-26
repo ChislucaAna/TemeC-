@@ -17,7 +17,7 @@ namespace DeliverySimulator
             InitializeComponent();
         }
 
-        private List<CourierWindow> openWindows = new List<CourierWindow>();
+        public static List<CourierWindow> openWindows = new List<CourierWindow>();
 
         private void Form1_Load(object sender, EventArgs e)
         {

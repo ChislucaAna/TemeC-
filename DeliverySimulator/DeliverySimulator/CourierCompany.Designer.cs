@@ -160,6 +160,7 @@
             this.Name = "CourierCompany";
             this.Text = "CourierCompany";
             this.Load += new System.EventHandler(this.CourierCompany_Load);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.CourierCompany_Paint);
             this.ResumeLayout(false);
             this.PerformLayout();
 
