@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\anach\Desktop\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\anach\Desktop\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\anach\Desktop\Captcha\Captcha\obj\Debug\Captcha.pdb

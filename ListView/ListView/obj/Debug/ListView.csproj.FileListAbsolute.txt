@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\bin\Debug\ListView.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\bin\Debug\ListView.exe
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\bin\Debug\ListView.pdb
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.exe
+C:\Users\anach\Desktop\LectiiCSharp\ListView\ListView\obj\Debug\ListView.pdb

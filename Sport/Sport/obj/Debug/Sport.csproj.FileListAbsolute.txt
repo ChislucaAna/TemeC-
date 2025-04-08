@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\anach\Desktop\LectiiCSharp\Sport\Sport\obj\Debug\Sport.pdb

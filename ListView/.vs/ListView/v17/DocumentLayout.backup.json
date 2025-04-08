@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\ListView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E0447-ECC7-4CEF-A28A-28AAB39012A6}|ListView\\ListView.csproj|c:\\users\\anach\\desktop\\lectiicsharp\\listview\\listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E0447-ECC7-4CEF-A28A-28AAB39012A6}|ListView\\ListView.csproj|solutionrelative:listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E0447-ECC7-4CEF-A28A-28AAB39012A6}|ListView\\ListView.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\ListView\\listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C85E0447-ECC7-4CEF-A28A-28AAB39012A6}|ListView\\ListView.csproj|solutionrelative:listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\ListView\\ListView\\Form1.cs",
+              "RelativeDocumentMoniker": "ListView\\Form1.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\ListView\\ListView\\Form1.cs",
+              "RelativeToolTip": "ListView\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0AAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:01:43.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\ListView\\ListView\\Form1.cs",
+              "RelativeDocumentMoniker": "ListView\\Form1.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\ListView\\ListView\\Form1.cs [Design]",
+              "RelativeToolTip": "ListView\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:00:36.246Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

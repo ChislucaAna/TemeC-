@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\sport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|solutionrelative:sport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\sport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|solutionrelative:sport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|c:\\users\\anach\\desktop\\lectiicsharp\\sport\\sport\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|solutionrelative:sport\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\sport\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1A3AC6-08B4-4AF0-96F5-863241F9131B}|Sport\\Sport.csproj|solutionrelative:sport\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Db.cs",
+              "RelativeDocumentMoniker": "Sport\\Db.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Db.cs",
+              "RelativeToolTip": "Sport\\Db.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:50:18.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Form1.cs",
+              "RelativeDocumentMoniker": "Sport\\Form1.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Form1.cs",
+              "RelativeToolTip": "Sport\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:48:52.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Session.cs",
+              "RelativeDocumentMoniker": "Sport\\Session.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Session.cs",
+              "RelativeToolTip": "Sport\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:25:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Form1.cs",
+              "RelativeDocumentMoniker": "Sport\\Form1.cs",
+              "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\Sport\\Sport\\Form1.cs [Design]",
+              "RelativeToolTip": "Sport\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:08:42.765Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

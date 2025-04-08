@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\bin\Debug\FormularPersonalizat.exe.config
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\bin\Debug\FormularPersonalizat.exe
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\bin\Debug\FormularPersonalizat.pdb
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.Form1.resources
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.Properties.Resources.resources
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.exe
+C:\Users\anach\Desktop\FormularPersonalizat\FormularPersonalizat\obj\Debug\FormularPersonalizat.pdb
