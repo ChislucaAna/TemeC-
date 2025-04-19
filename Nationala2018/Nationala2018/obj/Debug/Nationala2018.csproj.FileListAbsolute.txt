@@ -1,0 +1,12 @@
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\bin\Debug\Nationala2018.exe.config
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\bin\Debug\Nationala2018.exe
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\bin\Debug\Nationala2018.pdb
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.Properties.Resources.resources
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.exe
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.pdb
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.CentenarLogare.resources
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.CentenaStart.resources
+C:\Users\anach\Desktop\Nationala2018\Nationala2018\obj\Debug\Nationala2018.VizualizareLectii.resources

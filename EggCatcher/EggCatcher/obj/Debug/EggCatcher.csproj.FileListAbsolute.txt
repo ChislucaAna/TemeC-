@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\bin\Debug\EggCatcher.exe.config
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\bin\Debug\EggCatcher.exe
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\bin\Debug\EggCatcher.pdb
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.EggCatcher.resources
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.Properties.Resources.resources
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.exe
+C:\Users\anach\Desktop\EggCatcher\EggCatcher\obj\Debug\EggCatcher.pdb
