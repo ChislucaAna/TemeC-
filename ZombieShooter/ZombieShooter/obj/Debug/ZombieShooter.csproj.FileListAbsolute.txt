@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\bin\Debug\ZombieShooter.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\bin\Debug\ZombieShooter.exe
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\bin\Debug\ZombieShooter.pdb
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.exe
+C:\Users\anach\Desktop\LectiiCSharp\ZombieShooter\ZombieShooter\obj\Debug\ZombieShooter.pdb
