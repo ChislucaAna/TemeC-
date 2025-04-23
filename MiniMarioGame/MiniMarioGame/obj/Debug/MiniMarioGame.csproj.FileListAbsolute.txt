@@ -8,3 +8,13 @@ C:\Users\anach\Desktop\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.cspro
 C:\Users\anach\Desktop\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.csproj.CoreCompileInputs.cache
 C:\Users\anach\Desktop\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.exe
 C:\Users\anach\Desktop\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.pdb
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\bin\Debug\MiniMarioGame.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\bin\Debug\MiniMarioGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\bin\Debug\MiniMarioGame.pdb
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\MiniMarioGame\MiniMarioGame\obj\Debug\MiniMarioGame.pdb

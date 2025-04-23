@@ -258,7 +258,7 @@
             // player
             // 
             this.player.Image = global::MiniMarioGame.Properties.Resources.player;
-            this.player.Location = new System.Drawing.Point(122, 308);
+            this.player.Location = new System.Drawing.Point(12, 374);
             this.player.Name = "player";
             this.player.Size = new System.Drawing.Size(50, 60);
             this.player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -560,7 +560,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1892, 481);
+            this.ClientSize = new System.Drawing.Size(624, 481);
             this.Controls.Add(this.txtScore);
             this.Controls.Add(this.pictureBox35);
             this.Controls.Add(this.pictureBox34);
@@ -605,7 +605,9 @@
             this.Name = "Form1";
             this.Text = "Side Scrolling Game";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Form1_KeyPress);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.door)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
