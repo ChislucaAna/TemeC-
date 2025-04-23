@@ -1,0 +1,15 @@
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\anach\Desktop\LectiiCSharp\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
