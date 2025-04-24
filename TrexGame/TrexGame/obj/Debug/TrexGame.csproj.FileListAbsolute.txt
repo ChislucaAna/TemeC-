@@ -1,0 +1,15 @@
+C:\Users\anach\Desktop\TrexGame\TrexGame\bin\Debug\TrexGame.exe.config
+C:\Users\anach\Desktop\TrexGame\TrexGame\bin\Debug\TrexGame.exe
+C:\Users\anach\Desktop\TrexGame\TrexGame\bin\Debug\TrexGame.pdb
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.Form1.resources
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.Properties.Resources.resources
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.exe
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.pdb
+C:\Users\anach\Desktop\TrexGame\TrexGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\anach\Desktop\TrexGame\TrexGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anach\Desktop\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.ResolveComReference.cache
