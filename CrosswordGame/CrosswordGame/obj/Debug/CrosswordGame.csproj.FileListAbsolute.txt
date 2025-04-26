@@ -1,0 +1,11 @@
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\bin\Debug\CrosswordGame.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\bin\Debug\CrosswordGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\bin\Debug\CrosswordGame.pdb
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.pdb
+C:\Users\anach\Desktop\LectiiCSharp\CrosswordGame\CrosswordGame\obj\Debug\CrosswordGame.AddNewWord.resources
