@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\BrickGame\BrickGame\obj\Debug\BrickGame.pdb
