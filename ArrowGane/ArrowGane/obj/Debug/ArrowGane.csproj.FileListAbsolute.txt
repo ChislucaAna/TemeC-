@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\bin\Debug\ArrowGane.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\bin\Debug\ArrowGane.exe
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\bin\Debug\ArrowGane.pdb
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.exe
+C:\Users\anach\Desktop\LectiiCSharp\ArrowGane\ArrowGane\obj\Debug\ArrowGane.pdb
