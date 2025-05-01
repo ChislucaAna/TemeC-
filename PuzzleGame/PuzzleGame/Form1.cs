@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.ComponentModel.Com2Interop;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace PuzzleGame
 {
@@ -90,29 +91,76 @@ namespace PuzzleGame
                     Console.Write(suffledPieces[i, j].Tag.ToString() + " ");
         }
 
+        public static void Shuffle<T>(Random random, T[,] array)
+        {
+            int lengthRow = array.GetLength(1);
+
+            for (int i = array.Length - 1; i > 0; i--)
+            {
+                int i0 = i / lengthRow;
+                int i1 = i % lengthRow;
+
+                int j = random.Next(i + 1);
+                int j0 = j / lengthRow;
+                int j1 = j % lengthRow;
+
+                T temp = array[i0, i1];
+                array[i0, i1] = array[j0, j1];
+                array[j0, j1] = temp;
+            }
+        }
+
         public void shuufle()
         {
-            var query = from p in this.Controls.OfType<PictureBox>()
-                        where p.Tag.ToString() == "piece"
-                        select p;
-            var array = query.ToArray();
-            var rnd = new Random();
-            array = array.OrderBy(x => rnd.Next()).ToArray();
-            int index = 0;
 
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    suffledPieces[i, j] = new Bitmap(array[index].Image, fullImage.Width / 3, fullImage.Height / 3);
-                    var result1 = GetPictureBoxArrayIndex(array[index]);
-                    int i1 = result1.Item1;
-                    int j1 = result1.Item2;
-                    suffledPieces[i, j].Tag = i1.ToString() + j1.ToString();
-                    index++;
+                    pieces[i, j] = new Bitmap(fullImage.Width / 3, fullImage.Height / 3);
+                    pieces[i, j].Tag = i.ToString() + j.ToString();
+                    suffledPieces[i, j] = pieces[i, j];
+                    suffledPieces[i, j].Tag = pieces[i, j].Tag;
+
+                    Graphics g = Graphics.FromImage(pieces[i, j]);
+                    g.DrawImage(source, -j * fullImage.Width / 3, -i * fullImage.Width / 3);
+
+                    var query2 = from p in this.Controls.OfType<PictureBox>()
+                                where p.Name == "pictureBox" + i.ToString() + j.ToString()
+                                select p;
+                    var result = query2.First();
+                    result.Image = pieces[i, j]; //ordinea corecta o ai in pieces ca sa verifici la final
                 }
             }
 
+            Bitmap[,] copy = new Bitmap[3, 3];
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if (pieces[i, j] != null)
+                    {
+                        copy[i, j] = pieces[i, j];
+                    }
+                    else
+                    {
+                        copy[i, j] = null; // handle nulls safely
+                    }
+                }
+            }
+
+            Random rnd = new Random();
+            Shuffle(rnd, copy);
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    suffledPieces[i, j] = copy[i, j];
+                    suffledPieces[i, j].Tag = copy[i, j].Tag;
+                }
+            }
             refreshPuzzle();
             PrintIdealState();
             PrintCurrentState();

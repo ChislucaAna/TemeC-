@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\anach\Desktop\LectiiCSharp\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
