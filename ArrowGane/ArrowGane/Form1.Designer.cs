@@ -39,6 +39,7 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.arrow = new System.Windows.Forms.PictureBox();
             this.explosion = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.player)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -152,12 +153,22 @@
             this.explosion.TabStop = false;
             this.explosion.Tag = "explosion";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(13, 13);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(106, 13);
+            this.label1.TabIndex = 9;
+            this.label1.Text = "Press space to shoot";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.explosion);
             this.Controls.Add(this.arrow);
             this.Controls.Add(this.pictureBox5);
@@ -197,6 +208,7 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.PictureBox arrow;
         private System.Windows.Forms.PictureBox explosion;
+        private System.Windows.Forms.Label label1;
     }
 }
 
