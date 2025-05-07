@@ -42,7 +42,8 @@
               "RelativeToolTip": "PuzzleGame\\Form1.Designer.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwEwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:01:01.376Z"
+              "WhenOpened": "2025-05-01T09:01:01.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,7 +53,7 @@
               "RelativeDocumentMoniker": "PuzzleGame\\Form1.cs",
               "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\PuzzleGame\\PuzzleGame\\Form1.cs",
               "RelativeToolTip": "PuzzleGame\\Form1.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAewI8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAALkAAAAAAAAAAAAvwI8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T09:00:54.473Z",
               "EditorCaption": ""
@@ -66,7 +67,8 @@
               "ToolTip": "C:\\Users\\anach\\Desktop\\LectiiCSharp\\PuzzleGame\\PuzzleGame\\Form1.cs [Design]",
               "RelativeToolTip": "PuzzleGame\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:59:15.823Z"
+              "WhenOpened": "2025-05-01T08:59:15.823Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

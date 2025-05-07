@@ -1,0 +1,10 @@
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.csproj.AssemblyReference.cache
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.Form1.resources
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.Properties.Resources.resources
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.csproj.GenerateResource.cache
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.csproj.CoreCompileInputs.cache
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\bin\Debug\ShortestPathMatrix.exe.config
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\bin\Debug\ShortestPathMatrix.exe
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\bin\Debug\ShortestPathMatrix.pdb
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.exe
+C:\Users\anach\Desktop\ShortestPathMatrix\ShortestPathMatrix\obj\Debug\ShortestPathMatrix.pdb
